@@ -12,6 +12,7 @@
 
     <modules>
         <module>Project Euler</module>
+        <module>Leetcode</module>
     </modules>
 
     <properties>
